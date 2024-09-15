@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "64a4",
+      "title": "Habit",
+      "body": "\"What is habit?\"\n\"A way of living?\"\n\"Tara, would you become my habit?\"",
+      "author": "Snow"
+    },
+    {
+      "id": "8851",
+      "title": "Not Mine",
+      "body": "The most tragic joke of my life would be, you are not mine to keep. Even if you wanted to stay back, even if I wanted to clutch you in. Somethings... are just not in our hands.",
+      "author": "Snow"
+    },
+    {
+      "id": "2959",
+      "title": "redirect",
+      "body": "testing redirecting to homepage after adding a new blog",
+      "author": "Mao"
+    }
+  ]
+}
